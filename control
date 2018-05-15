@@ -1,0 +1,14 @@
+Package: me.qusic.networklist
+Version: 0.4.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Name: NetworkList
+Description: view saved WiFi passwords in Settings
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Qusic <qusicx@gmail.com>
+Tag: purpose::extension
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=networklistDp
+dev: qusic
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=networklistDp
